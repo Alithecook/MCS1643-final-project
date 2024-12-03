@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Finalmaybe.sln"
+    "dotnet.defaultSolution": "Finalmaybe.sln",
+    "C_Cpp.default.compilerPath": "/usr/bin/clang"
 }
