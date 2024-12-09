@@ -13,7 +13,13 @@ public class TargetingRaycast : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       bool result = Physics.Raycast(transform.position, transform.forward);
-       Debug.Log($"Am I seeing something? {result}");
+        RaycastHit hit;
+        bool result = Physics.Raycast(
+            transform.position, 
+            transform.forward, 
+            out hit,
+            20.0f
+            );
+        Debug.Log($"Am I seeing something? {result}");
     }
 }
