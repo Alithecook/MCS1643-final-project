@@ -10,25 +10,26 @@
 ---
 
 # Required ReadMe Info for ALL MCS1243 Projects
-* **Project**   - 
-* **Your Name** - 
-* **Date**      - 
+* **Project**   - Scantu
+* **Your Name** - Alessandra Nageotte
+* **Date**      - Dec 11, 2024
 
 <br>
 
 1. **What are the controls to your game? How do we play?**
-
+Use the arrow keys to move. Touch the exit door to leave the game.
 
 
 <br>
 
 2. **What creative additions did you make? How can we find them?**
-
+I placed obsticles to m ake the terrain harder to navigate.
 
 
 <br>
 
 3. **Any assets used that you didn't create yourself?** <br> (art, music, etc. Just tell us where you got it, link it here)
+Background music https://freesound.org/people/DudeAwesome/sounds/386010/
 
 
 
@@ -53,7 +54,7 @@
 <br>
 
 7. **What trouble did you have with this project?**
-
+I could not read or write the codes that I needed, becuase I do not know how. I also could not find someone who did.
 
 
 <br>
